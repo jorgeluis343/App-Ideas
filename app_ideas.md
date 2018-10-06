@@ -94,7 +94,7 @@ Mobile App Dev - App Brainstorming
         * Allows students to access educational streams through the app on their phone.  Students can access live or previous streams.  App is essential to allow students to access material on the go if they're are at school, work, home, or outdoors.  Mobile version will allow anyone
 
    **Market**
-     * Anyone who wants to find a tutor to learn specify topic .
+     * Anyone who wants to find a tutor to learn specific topic .
      * Or someone who is just browsing to learn something new.
      * Diverse learning oportunities.
     
