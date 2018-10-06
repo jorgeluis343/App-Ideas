@@ -1,1 +1,1 @@
-# App-Ideas
+# Educational Interactive Streaming Service
