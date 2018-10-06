@@ -83,6 +83,7 @@ Mobile App Dev - App Brainstorming
     
 4) New App Idea - Evaluate and Categorize
     1) Educational Interactive Streaming Service
+    
     **Description**
         * Streaming service that allows instructors, creators, and students to teach and learn different topics.  Streams allow the streamer and viewer to interact via text chat.  Viewers can subscribe and support the streamer by either following, subscribing, and/or donating.  Streams can include DIY projects, Turtoring help for a variety of school subjects ranging from Kindergarten to University level, content creators willing to teach music/art/photo or video editing, and much more.
     
