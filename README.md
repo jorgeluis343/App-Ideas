@@ -1,21 +1,28 @@
-# Educational Interactive Streaming Service
+# Budget App Tracker
 
 **Description**
-* Streaming service that allows instructors, creators, and students to teach and learn different topics.  Streams allow the streamer and viewer to interact via text chat.  Viewers can subscribe and support the streamer by either following, subscribing, and/or donating.  Streams can include DIY projects, Turtoring help for a variety of school subjects ranging from Kindergarten to University level, content creators willing to teach music/art/photo or video editing, and much more.
+* This app will allow the user to keep track of their spending and saving habits.  This app will allow the individuals to link their subscriptions to multiple services such as Netflix, Hulu, Spotify, etc to give the user a better understanding on how much they are paying monthly. Once these subscriptions are added to the account the user can toggle on/off if they want to cancel or renew their memberships to these services.
+
     
 **Category**
-* Educational
+* Productivity/Finance
+
+**Story**
+* The story around this app is compelling because in our society money is very important and we all want to be in control of it more. Our friends and peers would respond well to this budgeting app as it would help organize their finances and keep them out of debt which seems very common for the average person.
+
    
 **Mobile**
-* Allows students to access educational streams through the app on their phone.  Students can access live or previous streams.  App is essential to allow students to access material on the go if they're are at school, work, home, or outdoors.  Mobile version will allow anyone
+* Users will be able to track their finances on the go rather than using multiple websites to access their financial information.
+* Additional Feature: Users will be able to take pictures of receipts and store them in their account to track their spending.  The total amount from the receipts will be automatically updated in their finance tracker.
 
 **Market**
-* Anyone who wants to find a tutor to learn specify topic .
-* Or someone who is just browsing to learn something new.
-* Diverse learning oportunities.
+* Young adults/adults who want to keep track of their finances
     
 **Habit**
-* Teachers who might be looking for a way to make additional income on the side can stream and teach to thousands of people willing to learn. Students can use the app daily/weekly to learn/ review topics.
+* Our app is habit-forming as ideally the user would want to enter their spending every day.  As the user uses the app frequently they will be able to visualize how much they will be saving.
+* Our goal is to have the user use this product multiple times a week to check and track their finances.
     
 **Scope**
-* The app would allow those who choose to teach access to thousands of potential views. It would also allow aspiring learners access to many different kinds of lessons.
+* The app will be slightly challenging to complete by the end of the program as there are a lot of small details to figure out in order for the user will have a great experience.
+* A stripped down version of the app will still be interesting to build because even a simple finance tracking app will be beneficial for users to build healthy spending and saving habits.
+* Our product has one specific goal in mind and does not stray away from its intended use.  At the end of the day this product serves a definitive niche and that is to allow the user to track their finances.
